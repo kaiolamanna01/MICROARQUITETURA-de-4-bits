@@ -233,16 +233,6 @@ Este projeto permite compreender:
 
 ---
 
-## 👨‍💻 Autores
+## 👨‍💻 Autor
 
-Projeto acadêmico desenvolvido para disciplina de Microarquitetura.
-
----
-
-Se você quiser, posso agora:
-
-* 🔥 Gerar uma versão ainda mais impactante para portfólio
-* 🎓 Adaptar para LinkedIn
-* 🏢 Adaptar para entrevista técnica
-* 📦 Gerar um README mais enxuto
-* 📊 Criar um diagrama visual da arquitetura
+Desenvolvido por Kaio Lamanna
