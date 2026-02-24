@@ -1,7 +1,3 @@
-Aqui está um **README profissional**, estruturado para GitHub, com linguagem técnica adequada para projeto acadêmico de microarquitetura:
-
----
-
 # 🧠 MicroCore – Microarquitetura Educativa de 4 Bits
 
 MicroCore é uma **microarquitetura multiciclo de 4 bits**, desenvolvida para fins educacionais, com o objetivo de demonstrar os principais conceitos de organização e arquitetura de computadores, incluindo:
